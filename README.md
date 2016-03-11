@@ -14,7 +14,7 @@ Clone the repository
 `git clone git://github.com/eyedol/kasahorow-Keyboard-For-Android.git`
 
 
-After, you should have
+After, you should have;
 
 ```
 .
